@@ -2,7 +2,7 @@
 <!-- top left -->
 <div>
     
-<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+<img src="https://emojis.slackmojis.com/emojis/images/1605479284/10796/among_us_party.gif?1605479284" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 <!-- first row -->
