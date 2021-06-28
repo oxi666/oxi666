@@ -2,8 +2,8 @@
 <!-- top left -->
 <div>
     
-    <div class="tenor-gif-embed" data-postid="16603230" data-share-method="host" data-width="100%" data-aspect-ratio="0.9779116465863454"><a href="https://tenor.com/view/dancer-bailando-bailador-dance-moves-dance-gif-16603230">Dancer Bailando GIF</a> from <a href="https://tenor.com/search/dancer-gifs">Dancer GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+    <img src="https://media.tenor.com/images/882c65a7584f544e34958f91ae9db53f/tenor.gif" width="60" height="60"/> 
+    <img src=https://media.tenor.com/images/882c65a7584f544e34958f91ae9db53f/tenor.gif" width="60" height="60" align="right"/> 
 
 <!-- first row -->
 <p align="center">
