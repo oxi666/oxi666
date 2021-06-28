@@ -13,16 +13,16 @@
 
 
 <!-- thropy -->
-<a href="https://arshiamidos.github.io">
+<a href="https://oxi666.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=oxi666s&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
+<a align="center" href="https://oxi666.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=oxi66s&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxi666&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
