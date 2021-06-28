@@ -2,8 +2,8 @@
 <!-- top left -->
 <div>
     
-    <img src="https://media.tenor.com/images/882c65a7584f544e34958f91ae9db53f/tenor.gif" width="60" height="60"/> 
-    <img src=https://media.tenor.com/images/882c65a7584f544e34958f91ae9db53f/tenor.gif" width="60" height="60" align="right"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1605479284/10796/among_us_party.gif?1605479284" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1605479284/10796/among_us_party.gif?1605479284" width="60" height="60" align="right"/> 
 
 <!-- first row -->
 <p align="center">
