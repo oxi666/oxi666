@@ -10,7 +10,7 @@
 
 <!-- spotify -->
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=412wgxbntpwjcpqapdpzg7awa0&cover_image=true&theme=default"/>
 </p>
 
 
