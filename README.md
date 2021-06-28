@@ -29,7 +29,7 @@
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/lua-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="25px" height="25px"/>
