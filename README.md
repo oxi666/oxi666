@@ -8,10 +8,7 @@
 <!-- first row -->
 <p align="center">
 
-<!-- spotify -->
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=412wgxbntpwjcpqapdpzg7awa&cover_image=true&theme=default"/>
-</p>
+
 
 
 
