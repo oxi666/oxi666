@@ -1,8 +1,8 @@
 <div style="background: green ">
 <!-- top left -->
 <div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
+    
+    <div class="tenor-gif-embed" data-postid="16603230" data-share-method="host" data-width="100%" data-aspect-ratio="0.9779116465863454"><a href="https://tenor.com/view/dancer-bailando-bailador-dance-moves-dance-gif-16603230">Dancer Bailando GIF</a> from <a href="https://tenor.com/search/dancer-gifs">Dancer GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <!-- first row -->
