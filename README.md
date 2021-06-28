@@ -15,7 +15,7 @@
 <!-- thropy -->
 <a href="https://oxi666.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=oxi666s&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=oxi666&column=7&theme=onedark"/>
     </p>
 </a>
 
